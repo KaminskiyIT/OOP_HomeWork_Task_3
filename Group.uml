@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>net.ukr.kaminskiy.Human</OriginalElement>
+  <nodes>
+    <node x="37.49999999999994" y="0.0">net.ukr.kaminskiy.Human</node>
+    <node x="24.07499999999999" y="890.0">net.ukr.kaminskiy.Group</node>
+    <node x="158.37499999999997" y="1170.0">net.ukr.kaminskiy.Main</node>
+    <node x="0.0" y="610.0">net.ukr.kaminskiy.Student</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="net.ukr.kaminskiy.Main" target="net.ukr.kaminskiy.Group">
+      <point x="-57.0" y="-26.0" />
+      <point x="186.87499999999997" y="1145.0" />
+      <point x="96.82499999999999" y="1145.0" />
+      <point x="-72.75" y="115.0" />
+    </edge>
+    <edge source="net.ukr.kaminskiy.Group" target="net.ukr.kaminskiy.Student">
+      <point x="0.0" y="-115.0" />
+      <point x="169.575" y="865.0" />
+      <point x="156.0" y="865.0" />
+      <point x="-52.0" y="115.0" />
+    </edge>
+    <edge source="net.ukr.kaminskiy.Student" target="net.ukr.kaminskiy.Human">
+      <point x="-2.8421709430404007E-14" y="-115.0" />
+      <point x="0.0" y="280.0" />
+    </edge>
+    <edge source="net.ukr.kaminskiy.Main" target="net.ukr.kaminskiy.Student">
+      <point x="57.0" y="-26.0" />
+      <point x="300.875" y="1145.0" />
+      <point x="325.575" y="1145.0" />
+      <point x="325.575" y="865.0" />
+      <point x="364.0" y="865.0" />
+      <point x="155.99999999999997" y="115.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1299516908212561" x="299.95681915348433" y="163.29328772979903" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
